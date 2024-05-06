@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import math as math
-from ipywidgets import interact
+
 import ipywidgets as ipw
 
 from bokeh.plotting import figure
