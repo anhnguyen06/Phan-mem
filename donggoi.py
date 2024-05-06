@@ -12,6 +12,9 @@ import pandas as pd
 import math as math
 from ipywidgets import interact
 import ipywidgets as ipw
+import pandas as pd
+from sklearn import datasets
+from sklearn.ensemble import RandomForestClassifier
 
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource
